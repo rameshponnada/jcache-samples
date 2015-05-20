@@ -1,4 +1,6 @@
 .gradle
+.idea
+jcache-samples.iml
 build/
 
 # Ignore Gradle GUI config
