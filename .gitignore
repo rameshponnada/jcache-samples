@@ -1,6 +1,7 @@
 .gradle
 .idea
 jcache-samples.iml
+hazelcast/hazelcast.iml
 build/
 
 # Ignore Gradle GUI config
