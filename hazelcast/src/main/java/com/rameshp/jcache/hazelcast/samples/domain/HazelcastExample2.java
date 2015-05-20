@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Queue;
 
 /**
- * Created by ivy4760 on 5/20/15.
+ * Created by Ramesh Ponnada on 5/20/15.
  */
 public class HazelcastExample2 {
 

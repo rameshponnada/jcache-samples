@@ -9,7 +9,7 @@ import com.hazelcast.core.IMap;
 import java.util.Map;
 
 /**
- * Created by ivy4760 on 5/20/15.
+ * Created by Ramesh Ponnada on 5/20/15.
  */
 public class HazelcastExample3 {
     public static void main(String[] args) {

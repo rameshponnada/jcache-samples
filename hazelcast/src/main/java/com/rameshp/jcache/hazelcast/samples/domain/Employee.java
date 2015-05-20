@@ -3,7 +3,7 @@ package com.rameshp.jcache.hazelcast.samples.domain;
 import java.io.Serializable;
 
 /**
- * Created by ivy4760 on 5/20/15.
+ * Created by Ramesh Ponnada on 5/20/15.
  */
 public class Employee implements Serializable{
 
