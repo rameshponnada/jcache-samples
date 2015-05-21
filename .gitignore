@@ -2,6 +2,7 @@
 .idea
 jcache-samples.iml
 hazelcast/hazelcast.iml
+ehcache/ehcache.iml
 build/
 
 # Ignore Gradle GUI config
